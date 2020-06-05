@@ -1,0 +1,15 @@
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\bin\Debug\Сервис.exe.config
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\bin\Debug\Сервис.exe
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\bin\Debug\Сервис.pdb
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.csprojAssemblyReference.cache
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form1.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Properties.Resources.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.csproj.GenerateResource.cache
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.csproj.CoreCompileInputs.cache
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.exe
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.pdb
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form2.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form3.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form4.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form5.resources
+D:\Univer\3 kurs\1 sim\1\Методы и средства проектирования\111\Сервис\obj\Debug\Сервис.Form6.resources
